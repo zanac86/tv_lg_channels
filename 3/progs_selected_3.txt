@@ -1,0 +1,179 @@
+Perviy kanal              | 1     | 1
+Rossiya1                  | 2     | 1
+MATCH TV                  | 3     | 1
+NTV                       | 4     | 1
+TRK5                      | 5     | 1
+RossiyaK                  | 6     | 0
+Rossiya 24                | 7     | 0
+Karusel                   | 8     | 1
+KTV_SD                    | 9     | 0
+TVC                       | 10    | 0
+REN                       | 11    | 0
+SPAS                      | 12    | 1
+CTC                       | 13    | 0
+Domashnij                 | 14    | 1
+TV3                       | 15    | 0
+Pjatnica                  | 16    | 1
+Zvezda                    | 17    | 0
+MIR                       | 18    | 1
+TNT                       | 19    | 0
+MUZ TV                    | 20    | 1
+Podmoskovie 360           | 21    | 0
+360 Novosti               | 22    | 1
+Kanal Disney              | 23    | 1
+NTV HIT                   | 24    | 1
+RBC                       | 25    | 0
+RUTV                      | 26    | 1
+U                         | 27    | 1
+OTP                       | 28    | 1
+TDK                       | 29    | 1
+Match! Strana             | 30    | 1
+Istoriya                  | 31    | 0
+Mama                      | 32    | 1
+Moskva 24                 | 33    | 0
+CHE                       | 34    | 0
+Da Vinchi Learning        | 35    | 1
+Viasat Sport              | 36    | 0
+TV 1000 Ru Kino           | 37    | 1
+Viasat Explorer           | 38    | 0
+Viasat History            | 39    | 0
+TV1000                    | 40    | 0
+RETRO                     | 41    | 0
+DRIVE                     | 42    | 0
+OHOTA I RYBALKA           | 43    | 0
+Zdorovoe TV               | 44    | 1
+USADBA                    | 45    | 0
+DOMASHNIE ZHIVOTNYE       | 46    | 1
+VOPROSY OTVETY            | 47    | 1
+Russian Extreme           | 48    | 1
+Jivi                      | 49    | 1
+Eurokino                  | 50    | 0
+Illuzion +                | 51    | 0
+TV1000 Action             | 52    | 0
+PSYCHOLOGY 21             | 53    | 1
+TV21                      | 54    | 0
+Unikum                    | 55    | 1
+Russkij illuzion          | 56    | 1
+ZOOPARK                   | 57    | 1
+FOOTBALL                  | 58    | 1
+Fashion TV                | 59    | 1
+Stil i Moda               | 60    | 1
+Vremya                    | 61    | 1
+Dom Kino                  | 62    | 1
+Telecafe                  | 63    | 1
+Terra                     | 64    | 1
+Malysh                    | 65    | 1
+Ani                       | 66    | 1
+Lyubimoye kino            | 67    | 1
+Detsky Mir/Teleclub       | 68    | 1
+Kinomiks                  | 69    | 0
+Moya Planeta              | 70    | 1
+Sarafan                   | 71    | 1
+Kinopokaz                 | 72    | 0
+Muzika pervogo            | 73    | 1
+Shop Show                 | 75    | 1
+Jivaya planeta            | 76    | 0
+RTG TV                    | 77    | 1
+TNT4                      | 78    | 1
+MIR 24                    | 79    | 1
+Pobeda                    | 80    | 1
+Mult i Muzika             | 81    | 1
+Match Igra                | 82    | 1
+Nauka 2.0                 | 83    | 1
+KXL TV                    | 84    | 1
+Zagorodnaya Zhizn         | 85    | 1
+Shanson                   | 86    | 1
+Match Arena               | 87    | 1
+Kineko HD                 | 88    | 0
+Plan B                    | 89    | 1
+Nat Geo Wild              | 90    | 1
+Domashniy magazin         | 91    | 1
+Shopping Live             | 92    | 1
+LEOMAX24                  | 93    | 1
+Yuvelirochka              | 94    | 1
+O!                        | 95    | 1
+Moskva Doverie            | 96    | 1
+Bridge TV                 | 97    | 0
+Otkritiy Mir              | 98    | 1
+Mult                      | 99    | 1
+ZOO TV                    | 100   | 1
+Perviy Kanal HD           | 101   | 0
+Rossiya HD                | 102   | 0
+Match Arena HD            | 103   | 1
+Match TV HD               | 104   | 0
+RTG HD                    | 105   | 1
+Sapfir HD                 | 106   | 1
+Terra HD                  | 107   | 1
+RT HD                     | 108   | 1
+RT Doc HD                 | 109   | 1
+KTV HD                    | 110   | 0
+Fenix+Kino                | 111   | 1
+CTC LOVE                  | 112   | 1
+Avto 24                   | 113   | 0
+2x2                       | 114   | 0
+                          | 115   | 1
+Europa Plus TV            | 116   | 1
+Russkiy bestseller        | 117   | 1
+Rysskiy roman             | 118   | 1
+RUSSIA TODAY EN           | 119   | 1
+Muzhskoy                  | 120   | 1
+TPO                       | 121   | 1
+MUSIC BOX RU              | 122   | 1
+Travel+Adventure HD       | 123   | 0
+MATCH BOETC               | 124   | 1
+Kaleidoskop TV            | 125   | 1
+RODNOE KINO               | 126   | 1
+INDIYSKOE KINO            | 127   | 1
+KINOSERIYA                | 128   | 1
+Kinokomedia               | 129   | 0
+Teatr                     | 130   | 1
+Nostalgiya                | 131   | 0
+365 dney TV               | 132   | 1
+Nashe Novoye Kino         | 133   | 1
+KINOHIT                   | 136   | 0
+BRIDGE TV RusskyHit       | 139   | 1
+Poehali!                  | 140   | 1
+7TV                       | 141   | 1
+Pro100TV                  | 142   | 0
+BRIDGE TV Dance           | 143   | 1
+BRIDGE TV Classic         | 144   | 0
+KUHNYA TV                 | 145   | 1
+KTO EST KTO               | 146   | 1
+THT HD                    | 147   | 0
+RING                      | 148   | 1
+Bober                     | 149   | 0
+Russkiy detectiv          | 150   | 1
+Soyuz                     | 151   | 1
+TNT Music                 | 152   | 1
+Teleputeshestviya         | 153   | 0
+Subbota!                  | 154   | 1
+Dom Kino Premium HD       | 158   | 0
+EGE TV                    | 159   | 1
+Radio 7                   | 160   | 1
+Radio DiFM                | 161   | 1
+Radio Comedy              | 162   | 1
+Business                  | 16385 | 1
+Humor FM                  | 16386 | 1
+Avtoradio                 | 16387 | 1
+107.8                     | 16388 | 1
+Like FM                   | 16389 | 1
+Energy                    | 16390 | 1
+Relax                     | 16391 | 1
+Romantika                 | 16392 | 1
+Radio Vanya               | 16393 | 1
+Russkoe Radio             | 16394 | 1
+HIT FM                    | 16395 | 1
+Maximum                   | 16396 | 1
+Militseyskaya volna       | 16397 | 1
+Komsomol pravda           | 16398 | 1
+Echo Moscow               | 16399 | 1
+Radio shanson             | 16400 | 1
+Detskoe Radio             | 16401 | 1
+Vesti FM                  | 16402 | 1
+Mayak                     | 16403 | 1
+Radio Rossii              | 16404 | 1
+                          | 16405 | 1
+                          | 16406 | 1
+                          | 16407 | 1
+                          | 16408 | 1
+Radio Podmoskovie         | 16409 | 1
