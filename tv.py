@@ -44,14 +44,14 @@ def set_skip_marks(progs, skip_list):
 
 def get_progs(fn):
     """
-    tv xml loader
+    tv xml loader - prNum, vchName, isSkipped
     """
     print(f"Reading cnahhels list {fn}")
     tree = etree.parse(fn)
     root = tree.getroot()
     channels = root.find('CHANNEL')
     dtv = channels.find('DTV')
-    progs_skipped = {}
+    progs_skipped = []
     progs_all = {}
     skipped = 0
     for i in dtv:
@@ -63,7 +63,7 @@ def get_progs(fn):
         # а номер вроде бы пока остается
         # составляем список тех каналов, которые с признаком пропуска isSkipped
         if s == '1':
-            progs_skipped[p] = n
+            progs_skipped.append(p)
             skipped = skipped+1
     print("Skipped channels ", skipped, '/', len(dtv))
     return progs_all, progs_skipped

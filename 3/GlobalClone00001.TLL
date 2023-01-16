@@ -1860,7 +1860,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>642000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -1892,7 +1892,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>642000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -1924,7 +1924,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>634000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -1956,7 +1956,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>482000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -1988,7 +1988,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>642000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2020,7 +2020,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>642000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2052,7 +2052,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2084,7 +2084,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2116,12 +2116,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>482000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -2148,7 +2148,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2180,7 +2180,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2212,7 +2212,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2244,7 +2244,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>482000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2276,7 +2276,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2308,7 +2308,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>634000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2340,7 +2340,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2372,12 +2372,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -2404,7 +2404,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2436,12 +2436,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>482000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -2468,7 +2468,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2500,12 +2500,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>642000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -2532,7 +2532,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2564,7 +2564,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>634000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2574,10 +2574,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4b616e616c204469736e6579</hexVchName>
-<notConvertedLengthOfVchName>12</notConvertedLengthOfVchName>
-<vchName>Kanal Disney</vchName>
-<lengthOfVchName>12</lengthOfVchName>
+<hexVchName>536f6c6e6365</hexVchName>
+<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
+<vchName>Solnce</vchName>
+<lengthOfVchName>6</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -2596,7 +2596,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>482000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2628,7 +2628,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2660,7 +2660,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>634000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2692,7 +2692,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>634000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2724,7 +2724,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2756,7 +2756,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2788,7 +2788,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>578000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2820,12 +2820,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -2852,7 +2852,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2884,7 +2884,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2916,7 +2916,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2948,7 +2948,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -2958,10 +2958,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>44612056696e636869204c6561726e696e67</hexVchName>
-<notConvertedLengthOfVchName>18</notConvertedLengthOfVchName>
-<vchName>Da Vinchi Learning</vchName>
-<lengthOfVchName>18</lengthOfVchName>
+<hexVchName>44612056696e6369204c6561726e696e67</hexVchName>
+<notConvertedLengthOfVchName>17</notConvertedLengthOfVchName>
+<vchName>Da Vinci Learning</vchName>
+<lengthOfVchName>17</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -2980,12 +2980,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -3012,7 +3012,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3022,10 +3022,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>54562031303030205275204b696e6f</hexVchName>
-<notConvertedLengthOfVchName>15</notConvertedLengthOfVchName>
-<vchName>TV 1000 Ru Kino</vchName>
-<lengthOfVchName>15</lengthOfVchName>
+<hexVchName>015456203130303020c0e3e1e1daded520dad8dd</hexVchName>
+<notConvertedLengthOfVchName>20</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>20</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -3044,7 +3044,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3076,7 +3076,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3108,7 +3108,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3118,10 +3118,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>545631303030</hexVchName>
-<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
-<vchName>TV1000</vchName>
-<lengthOfVchName>6</lengthOfVchName>
+<hexVchName>54562031303030</hexVchName>
+<notConvertedLengthOfVchName>7</notConvertedLengthOfVchName>
+<vchName>TV 1000</vchName>
+<lengthOfVchName>7</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -3140,7 +3140,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3172,7 +3172,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3204,12 +3204,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -3236,7 +3236,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3268,12 +3268,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -3300,7 +3300,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3332,7 +3332,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3364,7 +3364,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3374,10 +3374,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>5275737369616e2045787472656d65</hexVchName>
-<notConvertedLengthOfVchName>15</notConvertedLengthOfVchName>
-<vchName>Russian Extreme</vchName>
-<lengthOfVchName>15</lengthOfVchName>
+<hexVchName>5275737369616e2045787472656d6520</hexVchName>
+<notConvertedLengthOfVchName>16</notConvertedLengthOfVchName>
+<vchName>Russian Extreme </vchName>
+<lengthOfVchName>16</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -3396,7 +3396,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3428,7 +3428,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3460,12 +3460,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -3492,7 +3492,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3502,10 +3502,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>54563130303020416374696f6e</hexVchName>
-<notConvertedLengthOfVchName>13</notConvertedLengthOfVchName>
-<vchName>TV1000 Action</vchName>
-<lengthOfVchName>13</lengthOfVchName>
+<hexVchName>5456203130303020416374696f6e</hexVchName>
+<notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
+<vchName>TV 1000 Action</vchName>
+<lengthOfVchName>14</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -3524,7 +3524,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3556,12 +3556,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>586000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -3588,7 +3588,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3620,7 +3620,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3652,7 +3652,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3662,9 +3662,9 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>5a4f4f5041524b</hexVchName>
+<hexVchName>5a6f6f7061726b</hexVchName>
 <notConvertedLengthOfVchName>7</notConvertedLengthOfVchName>
-<vchName>ZOOPARK</vchName>
+<vchName>Zoopark</vchName>
 <lengthOfVchName>7</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
@@ -3684,7 +3684,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3694,9 +3694,9 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>464f4f5442414c4c</hexVchName>
+<hexVchName>466f6f7462616c6c</hexVchName>
 <notConvertedLengthOfVchName>8</notConvertedLengthOfVchName>
-<vchName>FOOTBALL</vchName>
+<vchName>Football</vchName>
 <lengthOfVchName>8</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
@@ -3716,7 +3716,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3726,9 +3726,9 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>46617368696f6e205456</hexVchName>
+<hexVchName>5a41474f524f444e4959</hexVchName>
 <notConvertedLengthOfVchName>10</notConvertedLengthOfVchName>
-<vchName>Fashion TV</vchName>
+<vchName>ZAGORODNIY</vchName>
 <lengthOfVchName>10</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
@@ -3748,7 +3748,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>602000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3758,10 +3758,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>5374696c2069204d6f6461</hexVchName>
-<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
-<vchName>Stil i Moda</vchName>
-<lengthOfVchName>11</lengthOfVchName>
+<hexVchName>01c2bdbebcb5c0</hexVchName>
+<notConvertedLengthOfVchName>7</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>7</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -3780,7 +3780,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3812,7 +3812,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3844,7 +3844,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3876,7 +3876,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3908,7 +3908,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3940,7 +3940,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3972,7 +3972,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -3982,10 +3982,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4c797562696d6f7965206b696e6f</hexVchName>
-<notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
-<vchName>Lyubimoye kino</vchName>
-<lengthOfVchName>14</lengthOfVchName>
+<hexVchName>4c7562696d6f65204b696e6f</hexVchName>
+<notConvertedLengthOfVchName>12</notConvertedLengthOfVchName>
+<vchName>Lubimoe Kino</vchName>
+<lengthOfVchName>12</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -4004,7 +4004,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>570000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4014,10 +4014,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>446574736b79204d69722f54656c65636c7562</hexVchName>
-<notConvertedLengthOfVchName>19</notConvertedLengthOfVchName>
-<vchName>Detsky Mir/Teleclub</vchName>
-<lengthOfVchName>19</lengthOfVchName>
+<hexVchName>446574736b6969204d6972</hexVchName>
+<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
+<vchName>Detskii Mir</vchName>
+<lengthOfVchName>11</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -4036,7 +4036,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4068,7 +4068,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4100,7 +4100,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4132,7 +4132,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>626000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4164,7 +4164,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4174,10 +4174,42 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4d757a696b6120706572766f676f</hexVchName>
+<hexVchName>4d757a696b6120506572766f676f</hexVchName>
 <notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
-<vchName>Muzika pervogo</vchName>
+<vchName>Muzika Pervogo</vchName>
 <lengthOfVchName>14</lengthOfVchName>
+<hSettingIDHandle>0</hSettingIDHandle>
+<usSatelliteHandle>0</usSatelliteHandle>
+<isUserSelCHNo>0</isUserSelCHNo>
+<logoIndex>0</logoIndex>
+<videoStreamType>27</videoStreamType>
+</ITEM>
+<ITEM>
+<prNum>74</prNum>
+<minorNum>74</minorNum>
+<original_network_id>281</original_network_id>
+<transport_id>264</transport_id>
+<network_id>281</network_id>
+<service_id>2113</service_id>
+<physicalNum>9</physicalNum>
+<sourceIndex>3</sourceIndex>
+<serviceType>1</serviceType>
+<special_data>442402789</special_data>
+<frequency>578000</frequency>
+<nitVersion>9</nitVersion>
+<mapType>1</mapType>
+<mapAttr>0</mapAttr>
+<isInvisable>0</isInvisable>
+<isBlocked>0</isBlocked>
+<isSkipped>1</isSkipped>
+<isNumUnSel>0</isNumUnSel>
+<isDeleted>0</isDeleted>
+<chNameByte>0</chNameByte>
+<isDisabled>0</isDisabled>
+<hexVchName>454745205456</hexVchName>
+<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
+<vchName>EGE TV</vchName>
+<lengthOfVchName>6</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -4196,7 +4228,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>578000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4206,10 +4238,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>53686f702653686f77</hexVchName>
-<notConvertedLengthOfVchName>9</notConvertedLengthOfVchName>
-<vchName>Shop Show</vchName>
-<lengthOfVchName>9</lengthOfVchName>
+<hexVchName>53686f7020416e6453686f77</hexVchName>
+<notConvertedLengthOfVchName>12</notConvertedLengthOfVchName>
+<vchName>Shop AndShow</vchName>
+<lengthOfVchName>12</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -4228,12 +4260,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -4260,7 +4292,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>634000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4292,12 +4324,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>578000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>1</isSkipped>
+<isSkipped>0</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -4324,7 +4356,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>674000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4356,7 +4388,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4388,7 +4420,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4420,7 +4452,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4452,7 +4484,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4484,7 +4516,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4516,7 +4548,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4548,7 +4580,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4580,7 +4612,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>522000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4612,7 +4644,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4644,7 +4676,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4654,10 +4686,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>506c616e2042</hexVchName>
-<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
-<vchName>Plan B</vchName>
-<lengthOfVchName>6</lengthOfVchName>
+<hexVchName>4e617368204b696e6f706f6b617a</hexVchName>
+<notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
+<vchName>Nash Kinopokaz</vchName>
+<lengthOfVchName>14</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -4676,7 +4708,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>578000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4686,10 +4718,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4e61742047656f2057696c64</hexVchName>
-<notConvertedLengthOfVchName>12</notConvertedLengthOfVchName>
-<vchName>Nat Geo Wild</vchName>
-<lengthOfVchName>12</lengthOfVchName>
+<hexVchName>497a76657374697961</hexVchName>
+<notConvertedLengthOfVchName>9</notConvertedLengthOfVchName>
+<vchName>Izvestiya</vchName>
+<lengthOfVchName>9</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -4708,7 +4740,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4718,15 +4750,15 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>446f6d6173686e6979206d6167617a696e</hexVchName>
-<notConvertedLengthOfVchName>17</notConvertedLengthOfVchName>
-<vchName>Domashniy magazin</vchName>
-<lengthOfVchName>17</lengthOfVchName>
+<hexVchName>4d69722055766c656368656e6979</hexVchName>
+<notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
+<vchName>Mir Uvlecheniy</vchName>
+<lengthOfVchName>14</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
 <logoIndex>0</logoIndex>
-<videoStreamType>2</videoStreamType>
+<videoStreamType>27</videoStreamType>
 </ITEM>
 <ITEM>
 <prNum>92</prNum>
@@ -4740,7 +4772,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4772,7 +4804,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4804,7 +4836,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4836,7 +4868,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4868,7 +4900,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4900,12 +4932,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>634000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -4932,7 +4964,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>666000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4964,7 +4996,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>674000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -4996,7 +5028,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5028,7 +5060,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>522000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5060,7 +5092,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>522000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5092,7 +5124,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>674000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5124,7 +5156,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>666000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5156,7 +5188,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>658000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5188,7 +5220,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>666000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5220,7 +5252,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>674000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5252,7 +5284,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>658000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5262,10 +5294,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>5254204844</hexVchName>
-<notConvertedLengthOfVchName>5</notConvertedLengthOfVchName>
-<vchName>RT HD</vchName>
-<lengthOfVchName>5</lengthOfVchName>
+<hexVchName>5072696b6c79756368656e697961204844</hexVchName>
+<notConvertedLengthOfVchName>17</notConvertedLengthOfVchName>
+<vchName>Priklyucheniya HD</vchName>
+<lengthOfVchName>17</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -5284,7 +5316,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>658000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5316,7 +5348,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>522000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5348,7 +5380,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>666000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5380,7 +5412,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5412,7 +5444,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>658000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5444,7 +5476,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5476,7 +5508,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5486,9 +5518,9 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>01c2dee7dad020c2b2</hexVchName>
+<hexVchName>546f63686b61205456</hexVchName>
 <notConvertedLengthOfVchName>9</notConvertedLengthOfVchName>
-<vchName> </vchName>
+<vchName>Tochka TV</vchName>
 <lengthOfVchName>9</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
@@ -5508,7 +5540,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>650000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5540,7 +5572,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>666000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5572,7 +5604,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>674000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5604,7 +5636,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5614,10 +5646,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>52555353494120544f44415920454e</hexVchName>
-<notConvertedLengthOfVchName>15</notConvertedLengthOfVchName>
-<vchName>RUSSIA TODAY EN</vchName>
-<lengthOfVchName>15</lengthOfVchName>
+<hexVchName>525420496e74</hexVchName>
+<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
+<vchName>RT Int</vchName>
+<lengthOfVchName>6</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -5636,7 +5668,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5668,7 +5700,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>506000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5700,7 +5732,7 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>578000</frequency>
-<nitVersion>6</nitVersion>
+<nitVersion>9</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5732,12 +5764,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -5764,7 +5796,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5796,7 +5828,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5828,7 +5860,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5860,7 +5892,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5892,7 +5924,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5924,7 +5956,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>442000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5956,7 +5988,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>442000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -5988,12 +6020,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>442000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -6020,7 +6052,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>442000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6052,7 +6084,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>442000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6084,7 +6116,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>450000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6116,7 +6148,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>658000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6148,7 +6180,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6180,7 +6212,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6212,7 +6244,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6244,7 +6276,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6276,12 +6308,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -6308,7 +6340,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6340,7 +6372,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6372,12 +6404,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>666000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -6404,7 +6436,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>418000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6436,12 +6468,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>442000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -6468,7 +6500,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>674000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6500,7 +6532,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>658000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6532,7 +6564,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6564,12 +6596,12 @@
 <serviceType>1</serviceType>
 <special_data>442402789</special_data>
 <frequency>618000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -6596,7 +6628,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>490000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6628,12 +6660,12 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>442000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
 <isBlocked>0</isBlocked>
-<isSkipped>0</isSkipped>
+<isSkipped>1</isSkipped>
 <isNumUnSel>0</isNumUnSel>
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
@@ -6652,38 +6684,6 @@
 <prNum>159</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
-<transport_id>264</transport_id>
-<network_id>281</network_id>
-<service_id>2113</service_id>
-<physicalNum>9</physicalNum>
-<sourceIndex>3</sourceIndex>
-<serviceType>1</serviceType>
-<special_data>442402789</special_data>
-<frequency>578000</frequency>
-<nitVersion>6</nitVersion>
-<mapType>1</mapType>
-<mapAttr>0</mapAttr>
-<isInvisable>0</isInvisable>
-<isBlocked>0</isBlocked>
-<isSkipped>1</isSkipped>
-<isNumUnSel>0</isNumUnSel>
-<isDeleted>0</isDeleted>
-<chNameByte>0</chNameByte>
-<isDisabled>0</isDisabled>
-<hexVchName>454745205456</hexVchName>
-<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
-<vchName>EGE TV</vchName>
-<lengthOfVchName>6</lengthOfVchName>
-<hSettingIDHandle>0</hSettingIDHandle>
-<usSatelliteHandle>0</usSatelliteHandle>
-<isUserSelCHNo>0</isUserSelCHNo>
-<logoIndex>0</logoIndex>
-<videoStreamType>27</videoStreamType>
-</ITEM>
-<ITEM>
-<prNum>160</prNum>
-<minorNum>0</minorNum>
-<original_network_id>281</original_network_id>
 <transport_id>287</transport_id>
 <network_id>281</network_id>
 <service_id>3056</service_id>
@@ -6692,7 +6692,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6713,7 +6713,7 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
-<prNum>161</prNum>
+<prNum>160</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
 <transport_id>287</transport_id>
@@ -6724,7 +6724,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6745,7 +6745,7 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
-<prNum>162</prNum>
+<prNum>161</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
 <transport_id>287</transport_id>
@@ -6756,7 +6756,7 @@
 <serviceType>1</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6766,10 +6766,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>526164696f20436f6d656479</hexVchName>
-<notConvertedLengthOfVchName>12</notConvertedLengthOfVchName>
-<vchName>Radio Comedy</vchName>
-<lengthOfVchName>12</lengthOfVchName>
+<hexVchName>48495420464d</hexVchName>
+<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
+<vchName>HIT FM</vchName>
+<lengthOfVchName>6</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -6788,7 +6788,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6820,7 +6820,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6830,10 +6830,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>48756d6f7220464d</hexVchName>
-<notConvertedLengthOfVchName>8</notConvertedLengthOfVchName>
-<vchName>Humor FM</vchName>
-<lengthOfVchName>8</lengthOfVchName>
+<hexVchName>48756d6f725f30</hexVchName>
+<notConvertedLengthOfVchName>7</notConvertedLengthOfVchName>
+<vchName>Humor_0</vchName>
+<lengthOfVchName>7</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -6852,39 +6852,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
-<mapType>1</mapType>
-<mapAttr>0</mapAttr>
-<isInvisable>0</isInvisable>
-<isBlocked>0</isBlocked>
-<isSkipped>1</isSkipped>
-<isNumUnSel>0</isNumUnSel>
-<isDeleted>0</isDeleted>
-<chNameByte>0</chNameByte>
-<isDisabled>0</isDisabled>
-<hexVchName>4176746f726164696f</hexVchName>
-<notConvertedLengthOfVchName>9</notConvertedLengthOfVchName>
-<vchName>Avtoradio</vchName>
-<lengthOfVchName>9</lengthOfVchName>
-<hSettingIDHandle>0</hSettingIDHandle>
-<usSatelliteHandle>0</usSatelliteHandle>
-<isUserSelCHNo>0</isUserSelCHNo>
-<logoIndex>0</logoIndex>
-<videoStreamType>2</videoStreamType>
-</ITEM>
-<ITEM>
-<prNum>16388</prNum>
-<minorNum>0</minorNum>
-<original_network_id>281</original_network_id>
-<transport_id>278</transport_id>
-<network_id>281</network_id>
-<service_id>2915</service_id>
-<physicalNum>20</physicalNum>
-<sourceIndex>3</sourceIndex>
-<serviceType>2</serviceType>
-<special_data>442406885</special_data>
-<frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6905,6 +6873,38 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
+<prNum>16388</prNum>
+<minorNum>0</minorNum>
+<original_network_id>281</original_network_id>
+<transport_id>278</transport_id>
+<network_id>281</network_id>
+<service_id>2915</service_id>
+<physicalNum>20</physicalNum>
+<sourceIndex>3</sourceIndex>
+<serviceType>2</serviceType>
+<special_data>442406885</special_data>
+<frequency>434000</frequency>
+<nitVersion>0</nitVersion>
+<mapType>1</mapType>
+<mapAttr>0</mapAttr>
+<isInvisable>0</isInvisable>
+<isBlocked>0</isBlocked>
+<isSkipped>1</isSkipped>
+<isNumUnSel>0</isNumUnSel>
+<isDeleted>0</isDeleted>
+<chNameByte>0</chNameByte>
+<isDisabled>0</isDisabled>
+<hexVchName>436f6d6564795f4d32</hexVchName>
+<notConvertedLengthOfVchName>9</notConvertedLengthOfVchName>
+<vchName>Comedy_M2</vchName>
+<lengthOfVchName>9</lengthOfVchName>
+<hSettingIDHandle>0</hSettingIDHandle>
+<usSatelliteHandle>0</usSatelliteHandle>
+<isUserSelCHNo>0</isUserSelCHNo>
+<logoIndex>0</logoIndex>
+<videoStreamType>2</videoStreamType>
+</ITEM>
+<ITEM>
 <prNum>16389</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
@@ -6916,7 +6916,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6926,10 +6926,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4c696b6520464d</hexVchName>
-<notConvertedLengthOfVchName>7</notConvertedLengthOfVchName>
-<vchName>Like FM</vchName>
-<lengthOfVchName>7</lengthOfVchName>
+<hexVchName>456e657267795f4d30</hexVchName>
+<notConvertedLengthOfVchName>9</notConvertedLengthOfVchName>
+<vchName>Energy_M0</vchName>
+<lengthOfVchName>9</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -6948,7 +6948,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -6958,10 +6958,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>456e65726779</hexVchName>
-<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
-<vchName>Energy</vchName>
-<lengthOfVchName>6</lengthOfVchName>
+<hexVchName>4176746f726164696f5f4d</hexVchName>
+<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
+<vchName>Avtoradio_M</vchName>
+<lengthOfVchName>11</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -6980,7 +6980,39 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
+<mapType>1</mapType>
+<mapAttr>0</mapAttr>
+<isInvisable>0</isInvisable>
+<isBlocked>0</isBlocked>
+<isSkipped>1</isSkipped>
+<isNumUnSel>0</isNumUnSel>
+<isDeleted>0</isDeleted>
+<chNameByte>0</chNameByte>
+<isDisabled>0</isDisabled>
+<hexVchName>4176746f726164696f5f30</hexVchName>
+<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
+<vchName>Avtoradio_0</vchName>
+<lengthOfVchName>11</lengthOfVchName>
+<hSettingIDHandle>0</hSettingIDHandle>
+<usSatelliteHandle>0</usSatelliteHandle>
+<isUserSelCHNo>0</isUserSelCHNo>
+<logoIndex>0</logoIndex>
+<videoStreamType>2</videoStreamType>
+</ITEM>
+<ITEM>
+<prNum>16392</prNum>
+<minorNum>0</minorNum>
+<original_network_id>281</original_network_id>
+<transport_id>278</transport_id>
+<network_id>281</network_id>
+<service_id>2919</service_id>
+<physicalNum>20</physicalNum>
+<sourceIndex>3</sourceIndex>
+<serviceType>2</serviceType>
+<special_data>442406885</special_data>
+<frequency>434000</frequency>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7001,18 +7033,18 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
-<prNum>16392</prNum>
+<prNum>16393</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
 <transport_id>278</transport_id>
 <network_id>281</network_id>
-<service_id>2919</service_id>
+<service_id>2920</service_id>
 <physicalNum>20</physicalNum>
 <sourceIndex>3</sourceIndex>
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7033,38 +7065,6 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
-<prNum>16393</prNum>
-<minorNum>0</minorNum>
-<original_network_id>281</original_network_id>
-<transport_id>278</transport_id>
-<network_id>281</network_id>
-<service_id>2920</service_id>
-<physicalNum>20</physicalNum>
-<sourceIndex>3</sourceIndex>
-<serviceType>2</serviceType>
-<special_data>442406885</special_data>
-<frequency>434000</frequency>
-<nitVersion>1</nitVersion>
-<mapType>1</mapType>
-<mapAttr>0</mapAttr>
-<isInvisable>0</isInvisable>
-<isBlocked>0</isBlocked>
-<isSkipped>1</isSkipped>
-<isNumUnSel>0</isNumUnSel>
-<isDeleted>0</isDeleted>
-<chNameByte>0</chNameByte>
-<isDisabled>0</isDisabled>
-<hexVchName>526164696f2056616e7961</hexVchName>
-<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
-<vchName>Radio Vanya</vchName>
-<lengthOfVchName>11</lengthOfVchName>
-<hSettingIDHandle>0</hSettingIDHandle>
-<usSatelliteHandle>0</usSatelliteHandle>
-<isUserSelCHNo>0</isUserSelCHNo>
-<logoIndex>0</logoIndex>
-<videoStreamType>2</videoStreamType>
-</ITEM>
-<ITEM>
 <prNum>16394</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
@@ -7076,7 +7076,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7086,10 +7086,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>527573736b6f6520526164696f</hexVchName>
-<notConvertedLengthOfVchName>13</notConvertedLengthOfVchName>
-<vchName>Russkoe Radio</vchName>
-<lengthOfVchName>13</lengthOfVchName>
+<hexVchName>526164696f204b6e696761</hexVchName>
+<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
+<vchName>Radio Kniga</vchName>
+<lengthOfVchName>11</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7108,7 +7108,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7118,10 +7118,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>48495420464d</hexVchName>
-<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
-<vchName>HIT FM</vchName>
-<lengthOfVchName>6</lengthOfVchName>
+<hexVchName>01c0d0d4d8de20b4dbef20b4d2ded8e5</hexVchName>
+<notConvertedLengthOfVchName>16</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>16</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7140,7 +7140,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7150,10 +7150,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4d6178696d756d</hexVchName>
-<notConvertedLengthOfVchName>7</notConvertedLengthOfVchName>
-<vchName>Maximum</vchName>
-<lengthOfVchName>7</lengthOfVchName>
+<hexVchName>01c0d0d4d8de20b2d0ddef</hexVchName>
+<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>11</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7172,7 +7172,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7182,10 +7182,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4d696c6974736579736b61796120766f6c6e61</hexVchName>
-<notConvertedLengthOfVchName>19</notConvertedLengthOfVchName>
-<vchName>Militseyskaya volna</vchName>
-<lengthOfVchName>19</lengthOfVchName>
+<hexVchName>427573696e65737320464d</hexVchName>
+<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
+<vchName>Business FM</vchName>
+<lengthOfVchName>11</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7204,7 +7204,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7214,10 +7214,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4b6f6d736f6d6f6c20707261766461</hexVchName>
-<notConvertedLengthOfVchName>15</notConvertedLengthOfVchName>
-<vchName>Komsomol pravda</vchName>
-<lengthOfVchName>15</lengthOfVchName>
+<hexVchName>01bcd8dbd8e6d5d9e1dad0ef20d2dedbddd0</hexVchName>
+<notConvertedLengthOfVchName>18</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>18</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7236,7 +7236,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7246,10 +7246,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4563686f204d6f73636f77</hexVchName>
-<notConvertedLengthOfVchName>11</notConvertedLengthOfVchName>
-<vchName>Echo Moscow</vchName>
-<lengthOfVchName>11</lengthOfVchName>
+<hexVchName>01badedce1dedcdedbece1dad0ef20dfe0d0d2d4</hexVchName>
+<notConvertedLengthOfVchName>20</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>20</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7268,7 +7268,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7278,10 +7278,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>526164696f207368616e736f6e</hexVchName>
-<notConvertedLengthOfVchName>13</notConvertedLengthOfVchName>
-<vchName>Radio shanson</vchName>
-<lengthOfVchName>13</lengthOfVchName>
+<hexVchName>52656c617820464d</hexVchName>
+<notConvertedLengthOfVchName>8</notConvertedLengthOfVchName>
+<vchName>Relax FM</vchName>
+<lengthOfVchName>8</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7300,7 +7300,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7310,10 +7310,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>446574736b6f6520526164696f</hexVchName>
-<notConvertedLengthOfVchName>13</notConvertedLengthOfVchName>
-<vchName>Detskoe Radio</vchName>
-<lengthOfVchName>13</lengthOfVchName>
+<hexVchName>01c0d0d4d8de20bcb8c0</hexVchName>
+<notConvertedLengthOfVchName>10</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>10</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7332,7 +7332,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7342,10 +7342,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>566573746920464d</hexVchName>
-<notConvertedLengthOfVchName>8</notConvertedLengthOfVchName>
-<vchName>Vesti FM</vchName>
-<lengthOfVchName>8</lengthOfVchName>
+<hexVchName>01c0d0d4d8de20c8d0dde1dedd</hexVchName>
+<notConvertedLengthOfVchName>13</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>13</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7364,7 +7364,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7374,10 +7374,10 @@
 <isDeleted>0</isDeleted>
 <chNameByte>0</chNameByte>
 <isDisabled>0</isDisabled>
-<hexVchName>4d6179616b</hexVchName>
-<notConvertedLengthOfVchName>5</notConvertedLengthOfVchName>
-<vchName>Mayak</vchName>
-<lengthOfVchName>5</lengthOfVchName>
+<hexVchName>01b4d5e2e1daded520e0d0d4d8de</hexVchName>
+<notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>14</lengthOfVchName>
 <hSettingIDHandle>0</hSettingIDHandle>
 <usSatelliteHandle>0</usSatelliteHandle>
 <isUserSelCHNo>0</isUserSelCHNo>
@@ -7396,71 +7396,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
-<mapType>1</mapType>
-<mapAttr>0</mapAttr>
-<isInvisable>0</isInvisable>
-<isBlocked>0</isBlocked>
-<isSkipped>1</isSkipped>
-<isNumUnSel>0</isNumUnSel>
-<isDeleted>0</isDeleted>
-<chNameByte>0</chNameByte>
-<isDisabled>0</isDisabled>
-<hexVchName>526164696f20526f73736969</hexVchName>
-<notConvertedLengthOfVchName>12</notConvertedLengthOfVchName>
-<vchName>Radio Rossii</vchName>
-<lengthOfVchName>12</lengthOfVchName>
-<hSettingIDHandle>0</hSettingIDHandle>
-<usSatelliteHandle>0</usSatelliteHandle>
-<isUserSelCHNo>0</isUserSelCHNo>
-<logoIndex>0</logoIndex>
-<videoStreamType>2</videoStreamType>
-</ITEM>
-<ITEM>
-<prNum>16405</prNum>
-<minorNum>0</minorNum>
-<original_network_id>281</original_network_id>
-<transport_id>278</transport_id>
-<network_id>281</network_id>
-<service_id>7028</service_id>
-<physicalNum>20</physicalNum>
-<sourceIndex>3</sourceIndex>
-<serviceType>2</serviceType>
-<special_data>442406885</special_data>
-<frequency>434000</frequency>
-<nitVersion>1</nitVersion>
-<mapType>1</mapType>
-<mapAttr>0</mapAttr>
-<isInvisable>0</isInvisable>
-<isBlocked>0</isBlocked>
-<isSkipped>1</isSkipped>
-<isNumUnSel>0</isNumUnSel>
-<isDeleted>0</isDeleted>
-<chNameByte>0</chNameByte>
-<isDisabled>0</isDisabled>
-<hexVchName>01c0e3e1e1daded520e0d0d4d8de</hexVchName>
-<notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
-<vchName> </vchName>
-<lengthOfVchName>14</lengthOfVchName>
-<hSettingIDHandle>0</hSettingIDHandle>
-<usSatelliteHandle>0</usSatelliteHandle>
-<isUserSelCHNo>0</isUserSelCHNo>
-<logoIndex>0</logoIndex>
-<videoStreamType>2</videoStreamType>
-</ITEM>
-<ITEM>
-<prNum>16406</prNum>
-<minorNum>0</minorNum>
-<original_network_id>281</original_network_id>
-<transport_id>278</transport_id>
-<network_id>281</network_id>
-<service_id>7029</service_id>
-<physicalNum>20</physicalNum>
-<sourceIndex>3</sourceIndex>
-<serviceType>2</serviceType>
-<special_data>442406885</special_data>
-<frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7481,18 +7417,18 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
-<prNum>16407</prNum>
+<prNum>16405</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
 <transport_id>278</transport_id>
 <network_id>281</network_id>
-<service_id>7030</service_id>
+<service_id>7028</service_id>
 <physicalNum>20</physicalNum>
 <sourceIndex>3</sourceIndex>
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7513,18 +7449,18 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
-<prNum>16408</prNum>
+<prNum>16406</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
 <transport_id>278</transport_id>
 <network_id>281</network_id>
-<service_id>7031</service_id>
+<service_id>7029</service_id>
 <physicalNum>20</physicalNum>
 <sourceIndex>3</sourceIndex>
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>434000</frequency>
-<nitVersion>1</nitVersion>
+<nitVersion>0</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>
@@ -7545,7 +7481,103 @@
 <videoStreamType>2</videoStreamType>
 </ITEM>
 <ITEM>
+<prNum>16407</prNum>
+<minorNum>0</minorNum>
+<original_network_id>281</original_network_id>
+<transport_id>278</transport_id>
+<network_id>281</network_id>
+<service_id>7030</service_id>
+<physicalNum>20</physicalNum>
+<sourceIndex>3</sourceIndex>
+<serviceType>2</serviceType>
+<special_data>442406885</special_data>
+<frequency>434000</frequency>
+<nitVersion>0</nitVersion>
+<mapType>1</mapType>
+<mapAttr>0</mapAttr>
+<isInvisable>0</isInvisable>
+<isBlocked>0</isBlocked>
+<isSkipped>1</isSkipped>
+<isNumUnSel>0</isNumUnSel>
+<isDeleted>0</isDeleted>
+<chNameByte>0</chNameByte>
+<isDisabled>0</isDisabled>
+<hexVchName>01c0e3e1e1daded520e0d0d4d8de</hexVchName>
+<notConvertedLengthOfVchName>14</notConvertedLengthOfVchName>
+<vchName> </vchName>
+<lengthOfVchName>14</lengthOfVchName>
+<hSettingIDHandle>0</hSettingIDHandle>
+<usSatelliteHandle>0</usSatelliteHandle>
+<isUserSelCHNo>0</isUserSelCHNo>
+<logoIndex>0</logoIndex>
+<videoStreamType>2</videoStreamType>
+</ITEM>
+<ITEM>
+<prNum>16408</prNum>
+<minorNum>0</minorNum>
+<original_network_id>281</original_network_id>
+<transport_id>278</transport_id>
+<network_id>281</network_id>
+<service_id>7031</service_id>
+<physicalNum>20</physicalNum>
+<sourceIndex>3</sourceIndex>
+<serviceType>2</serviceType>
+<special_data>442406885</special_data>
+<frequency>434000</frequency>
+<nitVersion>0</nitVersion>
+<mapType>1</mapType>
+<mapAttr>0</mapAttr>
+<isInvisable>0</isInvisable>
+<isBlocked>0</isBlocked>
+<isSkipped>1</isSkipped>
+<isNumUnSel>0</isNumUnSel>
+<isDeleted>0</isDeleted>
+<chNameByte>0</chNameByte>
+<isDisabled>0</isDisabled>
+<hexVchName>4d6178696d756d</hexVchName>
+<notConvertedLengthOfVchName>7</notConvertedLengthOfVchName>
+<vchName>Maximum</vchName>
+<lengthOfVchName>7</lengthOfVchName>
+<hSettingIDHandle>0</hSettingIDHandle>
+<usSatelliteHandle>0</usSatelliteHandle>
+<isUserSelCHNo>0</isUserSelCHNo>
+<logoIndex>0</logoIndex>
+<videoStreamType>2</videoStreamType>
+</ITEM>
+<ITEM>
 <prNum>16409</prNum>
+<minorNum>0</minorNum>
+<original_network_id>281</original_network_id>
+<transport_id>278</transport_id>
+<network_id>281</network_id>
+<service_id>7032</service_id>
+<physicalNum>20</physicalNum>
+<sourceIndex>3</sourceIndex>
+<serviceType>2</serviceType>
+<special_data>442406885</special_data>
+<frequency>434000</frequency>
+<nitVersion>0</nitVersion>
+<mapType>1</mapType>
+<mapAttr>0</mapAttr>
+<isInvisable>0</isInvisable>
+<isBlocked>0</isBlocked>
+<isSkipped>1</isSkipped>
+<isNumUnSel>0</isNumUnSel>
+<isDeleted>0</isDeleted>
+<chNameByte>0</chNameByte>
+<isDisabled>0</isDisabled>
+<hexVchName>48495420464d</hexVchName>
+<notConvertedLengthOfVchName>6</notConvertedLengthOfVchName>
+<vchName>HIT FM</vchName>
+<lengthOfVchName>6</lengthOfVchName>
+<hSettingIDHandle>0</hSettingIDHandle>
+<usSatelliteHandle>0</usSatelliteHandle>
+<isUserSelCHNo>0</isUserSelCHNo>
+<logoIndex>0</logoIndex>
+<videoStreamType>2</videoStreamType>
+</ITEM>
+<ITEM>
+<prNum>16410</prNum>
 <minorNum>0</minorNum>
 <original_network_id>281</original_network_id>
 <transport_id>287</transport_id>
@@ -7556,7 +7588,7 @@
 <serviceType>2</serviceType>
 <special_data>442406885</special_data>
 <frequency>386000</frequency>
-<nitVersion>3</nitVersion>
+<nitVersion>4</nitVersion>
 <mapType>1</mapType>
 <mapAttr>0</mapAttr>
 <isInvisable>0</isInvisable>

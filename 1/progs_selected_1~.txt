@@ -18,7 +18,7 @@ Zvezda                    | 17    | 1
 MIR                       | 18    | 1
 TNT                       | 19    | 1
 MUZ TV                    | 20    | 1
-Podmoskovie 360           | 21    | 1
+Podmoskovie 360           | 21    | 0
 360 Novosti               | 22    | 1
 Solnce                    | 23    | 1
 NTV HIT                   | 24    | 1
@@ -32,32 +32,32 @@ Istoriya                  | 31    | 1
 Mama                      | 32    | 1
 Moskva 24                 | 33    | 0
 CHE                       | 34    | 0
-Da Vinci Learning         | 35    | 1
+Da Vinchi Learning        | 35    | 1
 Viasat Sport              | 36    | 1
-                          | 37    | 1
+TV 1000 Ru Kino           | 37    | 1
 Viasat Explorer           | 38    | 0
 Viasat History            | 39    | 0
-TV 1000                   | 40    | 0
+TV1000                    | 40    | 0
 RETRO                     | 41    | 0
 DRIVE                     | 42    | 0
-OHOTA I RYBALKA           | 43    | 1
+Ohota Rybalka             | 43    | 1
 Zdorovoe TV               | 44    | 1
 USADBA                    | 45    | 1
-DOMASHNIE ZHIVOTNYE       | 46    | 1
-VOPROSY OTVETY            | 47    | 1
+Domashnie zhivotny        | 46    | 1
+VOPROSY   OTVETY          | 47    | 1
 Russian Extreme           | 48    | 1
 Jivi                      | 49    | 1
 Eurokino                  | 50    | 0
-Illuzion +                | 51    | 1
-TV 1000 Action            | 52    | 0
+illuzion +                | 51    | 1
+TV1000 Action             | 52    | 0
 PSYCHOLOGY 21             | 53    | 1
 TV21                      | 54    | 1
 Unikum                    | 55    | 1
 Russkij illuzion          | 56    | 1
-Zoopark                   | 57    | 1
-Football                  | 58    | 1
-ZAGORODNIY                | 59    | 1
-                          | 60    | 1
+ZOOPARK                   | 57    | 1
+FOOTBALL                  | 58    | 1
+Fashion TV                | 59    | 1
+Stil i Moda               | 60    | 1
 Vremya                    | 61    | 1
 Dom Kino                  | 62    | 1
 Telecafe                  | 63    | 1
@@ -65,14 +65,14 @@ Terra                     | 64    | 1
 Malysh                    | 65    | 1
 Ani                       | 66    | 1
 Lubimoe Kino              | 67    | 1
-Detskii Mir               | 68    | 1
+Detsky Mir/Teleclub       | 68    | 1
 Kinomiks                  | 69    | 0
 Moya Planeta              | 70    | 1
 Sarafan                   | 71    | 1
 Kinopokaz                 | 72    | 0
 Muzika Pervogo            | 73    | 1
 EGE TV                    | 74    | 1
-Shop AndShow              | 75    | 1
+Shop Show                 | 75    | 1
 Jivaya planeta            | 76    | 1
 RTG TV                    | 77    | 1
 TNT4                      | 78    | 0
@@ -87,7 +87,7 @@ Shanson                   | 86    | 1
 Match Arena               | 87    | 1
 Kineko HD                 | 88    | 0
 Nash Kinopokaz            | 89    | 1
-Izvestiya                 | 90    | 1
+Nat Geo Wild              | 90    | 1
 Mir Uvlecheniy            | 91    | 1
 Shopping Live             | 92    | 1
 LEOMAX24                  | 93    | 1
@@ -131,7 +131,11 @@ Teatr                     | 130   | 1
 Nostalgiya                | 131   | 1
 365 dney TV               | 132   | 1
 Nashe Novoye Kino         | 133   | 1
+KINOPREMIERA HD           | 134   | 1
+KINOSVIDANIE              | 135   | 1
 KINOHIT                   | 136   | 0
+MUJSKOYE KINO             | 137   | 1
+KINOSEMYA                 | 138   | 1
 BRIDGE TV RusskyHit       | 139   | 1
 Poehali!                  | 140   | 1
 7TV                       | 141   | 1
@@ -148,10 +152,14 @@ Soyuz                     | 151   | 1
 TNT Music                 | 152   | 1
 Teleputeshestviya         | 153   | 1
 Subbota!                  | 154   | 1
+Match! Football 1         | 155   | 1
+Match! Football 2         | 156   | 1
+Match! Football 3         | 157   | 1
 Dom Kino Premium HD       | 158   | 1
-Radio 7                   | 159   | 1
-Radio DiFM                | 160   | 1
-HIT FM                    | 161   | 1
+Match! Premyer            | 159   | 1
+Radio 7                   | 160   | 1
+Radio DiFM                | 161   | 1
+HIT FM                    | 162   | 1
 Business                  | 16385 | 1
 Humor_0                   | 16386 | 1
 107.8                     | 16387 | 1

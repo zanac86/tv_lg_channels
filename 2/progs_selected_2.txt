@@ -20,7 +20,7 @@ TNT                       | 19    | 0
 MUZ TV                    | 20    | 0
 Podmoskovie 360           | 21    | 0
 360 Novosti               | 22    | 0
-Kanal Disney              | 23    | 0
+Solnce                    | 23    | 0
 NTV HIT                   | 24    | 0
 RBC                       | 25    | 0
 RUTV                      | 26    | 0
@@ -32,12 +32,12 @@ Istoriya                  | 31    | 0
 Mama                      | 32    | 0
 Moskva 24                 | 33    | 0
 CHE                       | 34    | 0
-Da Vinchi Learning        | 35    | 0
+Da Vinci Learning         | 35    | 0
 Viasat Sport              | 36    | 0
-TV 1000 Ru Kino           | 37    | 0
+                          | 37    | 0
 Viasat Explorer           | 38    | 0
 Viasat History            | 39    | 0
-TV1000                    | 40    | 0
+TV 1000                   | 40    | 0
 RETRO                     | 41    | 0
 DRIVE                     | 42    | 0
 OHOTA I RYBALKA           | 43    | 0
@@ -49,29 +49,30 @@ Russian Extreme           | 48    | 0
 Jivi                      | 49    | 0
 Eurokino                  | 50    | 0
 Illuzion +                | 51    | 0
-TV1000 Action             | 52    | 0
+TV 1000 Action            | 52    | 0
 PSYCHOLOGY 21             | 53    | 0
 TV21                      | 54    | 0
 Unikum                    | 55    | 0
 Russkij illuzion          | 56    | 0
-ZOOPARK                   | 57    | 0
-FOOTBALL                  | 58    | 0
-Fashion TV                | 59    | 0
-Stil i Moda               | 60    | 0
+Zoopark                   | 57    | 0
+Football                  | 58    | 0
+ZAGORODNIY                | 59    | 0
+                          | 60    | 0
 Vremya                    | 61    | 0
 Dom Kino                  | 62    | 0
 Telecafe                  | 63    | 0
 Terra                     | 64    | 0
 Malysh                    | 65    | 0
 Ani                       | 66    | 0
-Lyubimoye kino            | 67    | 0
-Detsky Mir/Teleclub       | 68    | 0
+Lubimoe Kino              | 67    | 0
+Detskii Mir               | 68    | 0
 Kinomiks                  | 69    | 0
 Moya Planeta              | 70    | 0
 Sarafan                   | 71    | 0
 Kinopokaz                 | 72    | 0
-Muzika pervogo            | 73    | 0
-Shop Show                 | 75    | 0
+Muzika Pervogo            | 73    | 0
+EGE TV                    | 74    | 0
+Shop AndShow              | 75    | 0
 Jivaya planeta            | 76    | 0
 RTG TV                    | 77    | 0
 TNT4                      | 78    | 0
@@ -85,9 +86,9 @@ Zagorodnaya Zhizn         | 85    | 0
 Shanson                   | 86    | 0
 Match Arena               | 87    | 0
 Kineko HD                 | 88    | 0
-Plan B                    | 89    | 0
-Nat Geo Wild              | 90    | 0
-Domashniy magazin         | 91    | 0
+Nash Kinopokaz            | 89    | 0
+Izvestiya                 | 90    | 0
+Mir Uvlecheniy            | 91    | 0
 Shopping Live             | 92    | 0
 LEOMAX24                  | 93    | 0
 Yuvelirochka              | 94    | 0
@@ -104,18 +105,18 @@ Match TV HD               | 104   | 0
 RTG HD                    | 105   | 0
 Sapfir HD                 | 106   | 0
 Terra HD                  | 107   | 0
-RT HD                     | 108   | 0
+Priklyucheniya HD         | 108   | 0
 RT Doc HD                 | 109   | 0
 KTV HD                    | 110   | 0
 Fenix+Kino                | 111   | 0
 CTC LOVE                  | 112   | 0
 Avto 24                   | 113   | 0
 2x2                       | 114   | 0
-                          | 115   | 0
+Tochka TV                 | 115   | 0
 Europa Plus TV            | 116   | 0
 Russkiy bestseller        | 117   | 0
 Rysskiy roman             | 118   | 0
-RUSSIA TODAY EN           | 119   | 0
+RT Int                    | 119   | 0
 Muzhskoy                  | 120   | 0
 TPO                       | 121   | 0
 MUSIC BOX RU              | 122   | 0
@@ -148,32 +149,32 @@ TNT Music                 | 152   | 0
 Teleputeshestviya         | 153   | 0
 Subbota!                  | 154   | 0
 Dom Kino Premium HD       | 158   | 0
-EGE TV                    | 159   | 0
-Radio 7                   | 160   | 0
-Radio DiFM                | 161   | 0
-Radio Comedy              | 162   | 0
+Radio 7                   | 159   | 0
+Radio DiFM                | 160   | 0
+HIT FM                    | 161   | 0
 Business                  | 16385 | 0
-Humor FM                  | 16386 | 0
-Avtoradio                 | 16387 | 0
-107.8                     | 16388 | 0
-Like FM                   | 16389 | 0
-Energy                    | 16390 | 0
-Relax                     | 16391 | 0
-Romantika                 | 16392 | 0
-Radio Vanya               | 16393 | 0
-Russkoe Radio             | 16394 | 0
-HIT FM                    | 16395 | 0
-Maximum                   | 16396 | 0
-Militseyskaya volna       | 16397 | 0
-Komsomol pravda           | 16398 | 0
-Echo Moscow               | 16399 | 0
-Radio shanson             | 16400 | 0
-Detskoe Radio             | 16401 | 0
-Vesti FM                  | 16402 | 0
-Mayak                     | 16403 | 0
-Radio Rossii              | 16404 | 0
+Humor_0                   | 16386 | 0
+107.8                     | 16387 | 0
+Comedy_M2                 | 16388 | 0
+Energy_M0                 | 16389 | 0
+Avtoradio_M               | 16390 | 0
+Avtoradio_0               | 16391 | 0
+Relax                     | 16392 | 0
+Romantika                 | 16393 | 0
+Radio Kniga               | 16394 | 0
+                          | 16395 | 0
+                          | 16396 | 0
+Business FM               | 16397 | 0
+                          | 16398 | 0
+                          | 16399 | 0
+Relax FM                  | 16400 | 0
+                          | 16401 | 0
+                          | 16402 | 0
+                          | 16403 | 0
+                          | 16404 | 0
                           | 16405 | 0
                           | 16406 | 0
                           | 16407 | 0
-                          | 16408 | 0
-Radio Podmoskovie         | 16409 | 0
+Maximum                   | 16408 | 0
+HIT FM                    | 16409 | 0
+Radio Podmoskovie         | 16410 | 0
